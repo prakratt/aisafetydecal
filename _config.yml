@@ -1,0 +1,10 @@
+title: AI Safety DeCal
+description: Berkeley AI Safety Initiative for Students — AI Safety DeCal
+theme: just-the-docs
+
+url: https://basisberkeley.github.io
+
+nav_enabled: true
+
+color_scheme: wider
+math: katex
